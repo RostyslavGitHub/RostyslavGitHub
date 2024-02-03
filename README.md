@@ -1,2 +1,2 @@
 Hi, I'm Rostyslav.
-Currently, work as an email developer!
+Currently, work as an email developer.
